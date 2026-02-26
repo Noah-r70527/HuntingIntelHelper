@@ -1,0 +1,49 @@
+Domain,Description,Category
+openai.com,AI research and generative models provider (ChatGPT, APIs),Generative AI / Developer Platform
+chat.openai.com,ChatGPT conversational interface,Conversational AI
+anthropic.com,Developer of Claude generative AI models,Generative AI
+perplexity.ai,AI search and answer assistant,AI Search
+google.com/gemini,Google’s multimodal generative AI assistant,Generative AI
+canva.com,AI-powered design and content creation,Creative AI
+midjourney.com,AI art and image generation,Creative AI
+github.com/features/copilot,AI coding assistant integrated with dev environments,Developer AI
+deepL.com,AI translation and writing tool,Language AI
+grmlabs.com,AI image generation (Stable Diffusion variants),Creative AI
+runwayml.com,AI video editing and generation,Video AI
+elevenlabs.io,AI voice and speech synthesis,Audio AI
+jasper.ai,AI content writing and marketing text generator,Writing AI
+grammarly.com,AI writing enhancement and grammar checking,Writing AI
+quillbot.com,AI paraphrasing and text rewriting,Writing AI
+notion.so,Notion AI for productivity and workspace enhancements,Productivity AI
+zapier.com,AI workflow automation integrations,Automation AI
+airtable.com,AI-augmented database and workflow tool,Productivity AI
+descript.com,AI audio/video editing and transcription,Media AI
+synthesia.com,AI video synthesis from scripts,Video AI
+tome.app,AI storytelling and presentation tool,Presentation AI
+durable.co,AI business website builder,Productivity AI
+rytr.me,AI writing assistant,Writing AI
+writesonic.com,AI content creation platform,Writing AI
+copy.ai,AI copywriting & marketing text,Writing AI
+surferseo.com,AI SEO content optimization tool,Marketing AI
+marketmuse.com,AI content planning and optimization,Marketing AI
+character.ai,AI chat personalities platform,Conversational AI
+openai.com/sora,AI video generation framework by OpenAI,Video AI
+leonardo.ai,AI image generation & creative tools,Creative AI
+ideogram.ai,AI image generation platform,Creative AI
+stablecog.com,AI image generation,Creative AI
+cole.ai,Cohere’s AI platform (enterprise NLP),Developer AI
+aws.amazon.com/sagemaker,AWS machine learning model building,Cloud ML Platform
+aws.amazon.com/bedrock,AWS foundation models and AI services,Cloud AI Platform
+azure.microsoft.com/AI,Microsoft Azure AI and cognitive services,Cloud AI Platform
+cloud.google.com/vertex-ai,Google Cloud ML and AI platform,Cloud AI Platform
+huggingface.co,Open-source models and model hub,Open-Source AI
+datarobot.com,Automated ML for enterprises,AutoML Platform
+h2o.ai,AI and AutoML solutions for data science,AutoML Platform
+databricks.com,Unified data analytics and AI workflows,Data + AI Platform
+notion.com/ai,Notion AI (workspace AI features),Productivity AI
+otter.ai,AI meeting transcription and summaries,Productivity AI
+mem.ai,AI knowledge and notes assistant,Productivity AI
+seite.ai,AI browser research and tab management,AI Productivity
+mistral.ai,Open-source/advanced LLM models,Generative AI
+cohere.com,Enterprise LLMs and NLP tools,Developer AI
+essayai.com,AI essay and writing assistant,Writing AI
